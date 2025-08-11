@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Rener Rodrigues, tenho 30 anos e sou natural de Matutina. Sou Pós graduado em Engenharia de Software pela Unopar. Atualmente, estou estudando bastante HTML, CSS e Java Script. Sou apaixonado por tecnologia e compartilho meu conhecimento aqui no GitHub e no meu Linkedin.
+Me chamo Rener Rodrigues, tenho 30 anos. Sou Pós graduado em Engenharia de Software pela Unopar. Atualmente, estou estudando bastante HTML, CSS e Java Script. Sou apaixonado por tecnologia e compartilho meu conhecimento aqui no GitHub e no meu Linkedin.
 <p align="left">
     <a href="www.linkedin.com/in/rener-rodrigues">
         <img 
